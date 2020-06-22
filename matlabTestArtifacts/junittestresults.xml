@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuites>
+   <testsuite errors="0" failures="0" name="test_input_ex1" skipped="0" tests="1"
+              time="0.62413">
+      <testcase classname="test_input_ex1" name="test_input_ex1" time="0.62413"/>
+   </testsuite>
+   <testsuite errors="0" failures="0" name="test_output_ex1_false" skipped="0" tests="1"
+              time="0.085283">
+      <testcase classname="test_output_ex1_false" name="test_output_ex1_false" time="0.085283"/>
+   </testsuite>
+</testsuites>
