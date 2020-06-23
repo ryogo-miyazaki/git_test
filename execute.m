@@ -1,4 +1,4 @@
-% setup variable values
+% setup variable values_a
 test_input_ex1
 test_output_ex1_false
 
