@@ -1,4 +1,4 @@
-% setup variable values_a_b_c_d_e_f_g_h_i_j_aa_bb
+% setup variable values_a_b_c_d_e_f_g_h_i_j_aa_bb_cc
 test_input_ex1
 test_output_ex1_false
 
